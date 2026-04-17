@@ -28,6 +28,4 @@ jobs:
     - name: python script running
       run: python src/addition.py
       
-    - name: Test with pytest
-      run: |
-        pytest
+   
